@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":"gardenEntry","date created":"Friday, April 29th 2022, 9:32:25 pm","date modified":"Friday, April 29th 2022, 11:00:14 pm","title":"一个库vs多个库","dg-home":true,"dg-publish":true,"permalink":"/vs/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"date created":"Friday, April 29th 2022, 9:32:25 pm","date modified":"Friday, April 29th 2022, 11:00:17 pm","title":"一个库vs多个库","dg-publish":true,"permalink":"/vs/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 Link：[One vault vs multiple vaults - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/one-vault-vs-multiple-vaults/1445/9)
