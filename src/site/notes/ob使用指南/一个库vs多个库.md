@@ -1,6 +1,8 @@
 ---
-{"aliases":null,"tags":"publish","date created":"Friday, April 29th 2022, 9:32:25 pm","date modified":"Saturday, April 30th 2022, 11:20:08 am","title":"一个库vs多个库","dg-publish":true,"dg-home":false,"dg-permalink":"2022/04/one&more","dg-home-link":true,"permalink":"/2022/04/one&more/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"datecreated":"2022/04/29/21/32:25(pm)","datemodified":"2022/04/30/12/04:32(pm)","tittle":"一个库vs多个库","dg-publish":true,"dg-home":false,"dg-permalink":"2022/04/one&more","dg-home-link":true,"permalink":"/2022/04/one&more/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
+
+# 一个库vs多个库
 
 Link：[One vault vs multiple vaults - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/one-vault-vs-multiple-vaults/1445/9)
 ## 单个库不拆分的观点 
