@@ -1,6 +1,8 @@
 ---
-{"aliases":null,"tags":["publish","gardenEntry"],"date created":"Saturday, April 30th 2022, 8:52:35 am","date modified":"Saturday, April 30th 2022, 11:22:16 am","title":"Min Digitale Hage","dg-home":true,"dg-publish":true,"dg-home-link":false,"permalink":"/publish/home/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"aliases":null,"tags":"gardenEntry","datecreated":"2022/04/30/08/52:35(am)","datemodified":"2022/04/30/12/05:04(pm)","tittle":"Min Digitale Hage","dg-publish":true,"dg-home":true,"dg-home-link":true,"permalink":"/publish/home/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
+
+
 
 # Min Digitale Hage
 
