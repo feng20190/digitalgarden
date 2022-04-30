@@ -1,14 +1,11 @@
 ---
-{"aliases":null,"tags":["publish","gardenEntry"],"date created":"Saturday, April 30th 2022, 8:52:35 am","date modified":"Saturday, April 30th 2022, 9:09:05 am","title":"Min Digitale Hage","dg-home":true,"dg-publish":true,"dg-home-link":false,"permalink":"/publish/home/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"aliases":null,"tags":["publish","gardenEntry"],"date created":"Saturday, April 30th 2022, 8:52:35 am","date modified":"Saturday, April 30th 2022, 9:25:59 am","title":"Min Digitale Hage","dg-home":true,"dg-publish":true,"dg-home-link":false,"permalink":"/publish/home/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Min Digitale Hage
 
-Dette er en [digital hage.](https://maggieappleton.com/garden-history) Hagen inneholder notater skrevet i [Obsidian](https://obsidian.md/). Disse er lagt ut offentlig slik at de eventuelt kan være til nytte for andre enn meg. De er krydret med skrivefeil, merkelige formuleringer og rotete struktur.
+jingyu的笔记花园，欢迎查阅
 
-Noen av linkene leder til tomme sider. Dette kan være fordi notatet enda ikke finnes, eller fordi jeg ikke har publisert notatet.
+笔记链接：
+- ![笔记库是一个库还还是多个库好](https://jingyugarden.netlify.app/2022/04/one&more)
 
-Denne oversikt-siden er i seg selv et notat, og inneholder linker til notater som jeg tror kan være interessante for andre enn meg.
-
-Om du er interessert i å sette opp din egen digitale hage har jeg laget en guide her:  
-[Set up your own digital garden](https://notes.ole.dev/set-up-your-digital-garden/)
